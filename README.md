@@ -5,6 +5,6 @@
 
 # Fyne Solitaire
 
-A simple solitaire application built using the Fyne toolkit.
+A solitaire application built using the Fyne toolkit.
 
 ![](img/solitaire.png)
