@@ -8,3 +8,4 @@
 A solitaire application built using the Fyne toolkit.
 
 ![](img/solitaire.png)
+‏
